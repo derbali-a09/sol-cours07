@@ -1,0 +1,14 @@
+{
+    "pays": "Canada",
+    "banques": [
+        {
+            "id": 1,"name": "Banque de Montréal","ville": "Laval","telephone": "450-272-2821"
+        },
+        {
+            "id": 2,"name": "Banque RBC","ville": "Montréal","telephone": "514-454-1544"
+        },
+        {
+            "id": 3,"name": "Banque Nationale","ville": "Laval","telephone": "450-582-2589"
+        }
+    ]
+}
